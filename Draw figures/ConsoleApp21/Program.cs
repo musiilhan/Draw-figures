@@ -21,6 +21,7 @@ namespace ConsoleApp21
                 Console.WriteLine("3-Flower");
                 Console.WriteLine("4-House");
                 n = int.Parse(Console.ReadLine());
+                Console.Clear();
                 Console.WriteLine();
                 if (n == 1)
                 {
