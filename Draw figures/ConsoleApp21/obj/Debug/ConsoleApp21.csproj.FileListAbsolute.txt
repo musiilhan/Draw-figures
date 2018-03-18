@@ -1,0 +1,12 @@
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojResolveAssemblyReference.cache
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+c:\users\musi\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\obj\Debug\ConsoleApp21.csprojResolveAssemblyReference.cache
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Musi\Documents\Visual Studio 2017\Projects\Draw figures\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
